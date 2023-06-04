@@ -12,8 +12,9 @@ Education
 
 Publications
 ======
-  - **[IEEE IoTJ’23]** ***Haiyan Hu**, Qian Zhang and Yanjiao Chen, "NIRSCam: A Mobile Near-Infrared Sensing System for Food Calorie Estimation."* 
-  - **[ACM IMWUT/Ubicomp’22]** ***Haiyan Hu**, Qianyi Huang, and Qian Zhang. "BabyNutri: A Cost-Effective Baby Food Macronutrients Analyzer Based on Spectral Reconstruction."*
+  - **[ACM IMWUT/Ubicomp’23]** ***Haiyan Hu**, Qianyi Huang, and Qian Zhang. "BabyNutri: A Cost-Effective Baby Food Macronutrients Analyzer Based on Spectral Reconstruction."*
+  - **[IEEE IoTJ’22]** ***Haiyan Hu**, Qian Zhang and Yanjiao Chen, "NIRSCam: A Mobile Near-Infrared Sensing System for Food Calorie Estimation."* 
+  
 
 Teaching
 ======
