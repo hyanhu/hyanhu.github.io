@@ -21,7 +21,5 @@ Research Interest
 Selected Reasearch Projects
 =====
 ### Ubiqutious and Low-Cost Spectroscopy (Nov. 2020 - Present)
-- **BabyNutri: A Cost-Effective Baby Food Macronutrients Analyzer Based on Spectral Reconstruction. *[IMWUT/UbiComp’23]***
-- **NIRSCAM: A Mobile Near-Infrared Sensing System for Food Calorie Estimation. *[IOTJ’22]***
-
-
+ - **[ACM IMWUT/Ubicomp’23]** ***Haiyan Hu**, Qianyi Huang, and Qian Zhang. "BabyNutri: A Cost-Effective Baby Food Macronutrients Analyzer Based on Spectral Reconstruction."* [[paper](https://dl.acm.org/doi/10.1145/3580858)] [[slides](/files/BabyNutri.pptx)]
+- **[IEEE IoTJ’22]** ***Haiyan Hu**, Qian Zhang and Yanjiao Chen, "NIRSCam: A Mobile Near-Infrared Sensing System for Food Calorie Estimation."* [[paper](https://ieeexplore.ieee.org/document/9745595)] [[slides](/files/NIRSCAM.pptx)]
