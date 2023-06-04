@@ -20,8 +20,8 @@ Research Interest
 
 Selected Reasearch Projects
 =====
-* Ubiqutious and Low-Cost Spectroscopy (Nov. 2020 - Present)
+### Ubiqutious and Low-Cost Spectroscopy (Nov. 2020 - Present)
 
-**NIRSCAM: A Mobile Near-Infrared Sensing System for Food Calorie Estimation** [IOTJ’22]
+- **NIRSCAM: A Mobile Near-Infrared Sensing System for Food Calorie Estimation. *[IOTJ’22]***
 
-**BabyNutri: A Cost-Effective Baby Food Macronutrients Analyzer Based on Spectral Reconstruction** [IMWUT/UbiComp ’23]
+- **BabyNutri: A Cost-Effective Baby Food Macronutrients Analyzer Based on Spectral Reconstruction. *[IMWUT/UbiComp’23]***
