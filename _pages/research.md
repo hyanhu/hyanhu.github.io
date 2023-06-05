@@ -2,8 +2,8 @@
 title: "Research"
 permalink: /research/
 author_profile: true
-<!-- redirect_from:
-  - /resume -->
+redirect_from: 
+- /research/
 ---
 
 # Research Vision
@@ -20,6 +20,9 @@ Dietary information is a critical dimension for health management but has no con
 ### - Nutrient monitoring of baby food: 
 Proper nutrient intake is essential for infants. Currently, mothers can only track their baby's nutrient intake from food packages (for commercial food) or recipes (for homemade food), which could be cumbersome and unreliable. Therefore, we build a low-cost spectrometer system for accurate baby food nutrient monitoring, named [BabyNutri](https://dl.acm.org/doi/10.1145/3580858), which costs less than 10 dollars but achieves comparable performance to commercial solutions. 
 
-<!-- ![](/images/profile.png)![](/images/profile.png) -->
+
+<!-- <center class='half'> -->
+<img src="/images/NIRSCAM.png" width=45%/><img src="/images/BabyNutri.png" width=50%/>
+<!-- </center> -->
 
 However, there are several challenges facing more cost-effective and convenient ways for intake monitoring. On the one hand, cost-effective devices always take the weak capability and are easy to interfere with. Thus, **the first key point is to deal with the ubiquitous interference and improve the signal quality of the system by both hardware and software design.** On the other hand, only limited and coarse-grained information can be obtained from the cost-effective device. **We need to deal with the primitive signal and utilize methods to extract effective information so as to deduce the food intake.**  
