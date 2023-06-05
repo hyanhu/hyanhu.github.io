@@ -26,3 +26,6 @@ Proper nutrient intake is essential for infants. Currently, mothers can only tra
 </center>
 
 However, there are several challenges facing more cost-effective and convenient ways for intake monitoring. On the one hand, cost-effective devices always take the weak capability and are easy to interfere with. Thus, **the first key point is to deal with the ubiquitous interference and improve the signal quality of the system by both hardware and software design.** On the other hand, only limited and coarse-grained information can be obtained from the cost-effective device. **We need to deal with the primitive signal and utilize methods to extract effective information so as to deduce the food intake.**  
+
+# Future Direction
+My long-term research goal is to leverage optical sensing technology to achieve cost-effective and reliable detection of people's health. In particular, spectroscopy has great potential in detecting food composition, safety, and quality. However, current spectroscopy devices tend to be bulky and expensive. Fortunately, the development of new nanooptical materials and deep learning models has made it possible to create cost-effective and miniaturized spectrometers. Our aim is to harness these emerging technologies and explore the full capabilities of spectroscopy within the context of an ubiquitous computing society.
