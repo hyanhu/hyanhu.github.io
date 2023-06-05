@@ -13,7 +13,7 @@ As we spend a substantial portion of spare time at home, a smart home that can c
 
 Our expectation is to achieve intelligent healthcare and smart home through the use of increasingly convenient and cost-effective sensing technology. Meanwhile, we aim to expand the boundaries of sensing by enhancing our understanding of its capabilities and implementing intelligent learning algorithms.
 
-# Ubiqutious and Low-Cost Spectroscopy (Nov. 2020 - Present)
+# Ubiqutious and Low-Cost Spectroscopy
 Dietary information is a critical dimension for health management. This information can be used to improve our health with self-awareness. If we can monitor food intake over the long term, **it could enable doctors and nutritionists to study how chronic diseases are related to dietary habits and provide food suggestions for the population.** Furthermore, **some special populations have special needs for food intake and we need to pay extra attention to them.** In this part, we mainly care about general food nutrition and type detection for normal people, and give special attention to the infants to monitor baby food nutrients.
 ### - General Food Nutrition and Calorie Detection:  
 Dietary information is a critical dimension for health management but has no convenient solution yet. We ask whether we can track meal composition unobtrusively. In this research, we introduce [NIRSCAM](https://ieeexplore.ieee.org/document/9745595), a new design that can recognize food calories and nutrients during the intake process, without on-body instruments. 
