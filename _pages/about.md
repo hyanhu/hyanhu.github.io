@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-**Hello and Welcom!** I am Haiyan HU, a Ph.D student at the Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST), under the supervision of Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/). Before that, I received my B.Eng degree in Computer Science and Technology from Wuhan University in 2020, working with Prof [Yanjiao Chen](https://person.zju.edu.cn/en/0020875). I am particularly fascinated by the intersection of technology and health, exploring areas like Smart Healthcare, Optical Sensing, and the Artificial Intelligence of Things.
+---
+**Hello and Welcom!** :wave: I am Haiyan HU, a Ph.D student at [Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), under the supervision of Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/). Before that, I received my B.Eng degree in Computer Science and Technology from Wuhan University in 2020, working with Prof [Yanjiao Chen](https://person.zju.edu.cn/en/0020875). I am particularly fascinated by the intersection of technology and health, exploring areas like Smart Healthcare, Optical Sensing, and the Artificial Intelligence of Things.
 <br/><br/>
 
-🔥 Research Interest
+:star2: Research Interest
 ======
 ---
 * Smart Healthcare  
@@ -21,7 +22,7 @@ redirect_from:
 * Artificial Intelligence of Things
 <br/><br/>
 
-Publications
+:bookmark_tabs: Publications
 =====
 ---
 **Conference**
@@ -32,7 +33,7 @@ Publications
 - **[IEEE IEEE Internet of Things Journal’22]** ***Haiyan Hu**, Qian Zhang and Yanjiao Chen. "NIRSCam: A Mobile Near-Infrared Sensing System for Food Calorie Estimation."* [[paper](https://ieeexplore.ieee.org/document/9745595)] [[slides](/files/NIRSCAM.pptx)]
 <br/><br/>
 
-Honors & Awards
+:trophy: Honors & Awards
 ====
 ---
 - Postgraduate Studentships, HKUST, 2020-present
@@ -41,7 +42,7 @@ Honors & Awards
 - Pacemaker to Merit Student, WHU, 2017
 <br/><br/>
 
-Teaching & Services
+:busts_in_silhouette: Teaching & Services
 ====
 ---
 - TA for HKUST COMP3311: Database Systems, Spring 2021
