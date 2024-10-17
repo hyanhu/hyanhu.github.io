@@ -12,14 +12,16 @@ redirect_from:
 
 Research Interest
 ======
+---
 * Smart Healthcare  
 * Optical Sensing  
 * Ubiqutious and Low-Cost Spectroscopy  
 * Health Data Mining  
-* Artificial Intelligence of Things  
-
+* Artificial Intelligence of Things
+  
 Publications
 =====
+---
 **Conference**
 - **[ACM MobiCom’24]** ***Haiyan Hu**, Yinan Zhu, Baichen Yang, Hua Kang, Shanwen Chen, and Qian Zhang. "MeatSpec: Enabling Ubiquitous Meat Fraud Inspection through Consumer-Level Spectral Imaging."* [[paper](https://www.sigmobile.org/mobicom/2024/program.html)]
 
