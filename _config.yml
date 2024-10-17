@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haiyan HU's Homepage"
+title                    : "Haiyan HU"
 title_separator          : "-"
 name                     : &name "Haiyan HU"
 description              : &description "personal description"
