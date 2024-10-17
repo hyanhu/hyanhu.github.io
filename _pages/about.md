@@ -42,6 +42,12 @@ redirect_from:
 - Pacemaker to Merit Student, WHU, 2017
 <br/><br/>
 
+:mortar_board: Education
+======
+- B.S. in Wuhan, Wuhan University, 2016-2020
+- Ph.D in Hong Kong, The Hong Kong University of Science and Technology, 2020-Current
+<br/><br/>
+
 :busts_in_silhouette: Teaching & Services
 ====
 ---
