@@ -44,6 +44,7 @@ redirect_from:
 
 🎓 Education
 ======
+---
 - B.S. in Wuhan, Wuhan University, 2016-2020
 - Ph.D in Hong Kong, The Hong Kong University of Science and Technology, 2020-Current
 <br/><br/>
