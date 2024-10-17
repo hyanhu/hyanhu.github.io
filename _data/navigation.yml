@@ -4,13 +4,13 @@ main:
     url: /research/    
     
   - title: "Publications"
-    url: /publications/
+    url: ~/publications/
 
 #   - title: "Teaching"
-#     url: /teaching/    
+#     url: ~/teaching/    
     
   - title: "Honors & Awards"
-    url: /honor/
+    url: ~/honor/
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
