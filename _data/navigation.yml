@@ -1,19 +1,13 @@
 # main links links
 main:
-  - title: "Research"
-    url: /research/    
-    
   - title: "Publications"
     url: /#-publications
 
-#   - title: "Teaching"
-#     url: ~/teaching/    
-    
   - title: "Honors & Awards"
-    url: /#-honors--awards/
-        
-#   - title: "Blog Posts"
-#     url: /year-archive/
+    url: /#-honors--awards
+  
+  - title: "Research Vision"
+    url: /research/    
     
   # - title: "CV"
   #   url: /cv/
