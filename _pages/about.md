@@ -37,17 +37,18 @@ redirect_from:
 🏆 Honors & Awards
 ====
 ---
-- Postgraduate Studentships, HKUST, 2020-present
-- HKUST RedBird Academic Excellence Award, HKUST, 2022
-- National Scholarship, WHU, 2017 & 2018
-- Pacemaker to Merit Student, WHU, 2017
+- 👩🏻‍🎓 Postgraduate Studentships, HKUST, 2020-Present
+- 🏆 HKUST RedBird Academic Excellence Award, HKUST, 2022
+- 🎖️ National Encouragement Scholarship, WHU, 2019
+- 🎖️ National Scholarship, WHU, 2017 & 2018
+- 🏅 Pacemaker to Merit Student, WHU, 2017
 <br/><br/>
 
 🎓 Education
 ======
 ---
 - B.S. in Wuhan, Wuhan University, 2016-2020
-- Ph.D in Hong Kong, The Hong Kong University of Science and Technology, 2020-Current
+- Ph.D in Hong Kong, The Hong Kong University of Science and Technology, 2020-Present
 <br/><br/>
 
 👥 Teaching & Services
