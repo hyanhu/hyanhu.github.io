@@ -34,7 +34,7 @@ Honors & Awards
 - National Scholarship, WHU, 2017 & 2018
 - Pacemaker to Merit Student, WHU, 2017
 
-Teaching
+Teaching & Services
 ====
 - TA for HKUST COMP3311: Database Systems, Spring 2021
 - TA for HKUST COMP4901S: IoT and Mobile Sensing, Fall 2021
