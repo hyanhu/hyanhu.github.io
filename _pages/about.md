@@ -35,6 +35,7 @@ Honors & Awards
 - Pacemaker to Merit Student, WHU, 2017
 
 Teaching
+====
 - TA for HKUST COMP3311: Database Systems, Spring 2021
 - TA for HKUST COMP4901S: IoT and Mobile Sensing, Fall 2021
 - TA for HKUST COMP4521: Mobile Application Development, Fall 2022
