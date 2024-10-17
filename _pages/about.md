@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 ---
-**Hello and Welcom!** :wave: I am Haiyan HU, a Ph.D student at [Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), under the supervision of Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/). Before that, I received my B.Eng degree in Computer Science and Technology from Wuhan University in 2020, working with Prof [Yanjiao Chen](https://person.zju.edu.cn/en/0020875). I am particularly fascinated by the intersection of technology and health, exploring areas like Smart Healthcare, Optical Sensing, and the Artificial Intelligence of Things.
+**Hello and Welcom!** 👋 I am Haiyan HU, a Ph.D student at [Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), under the supervision of Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/). Before that, I received my B.Eng degree in Computer Science and Technology from Wuhan University in 2020, working with Prof [Yanjiao Chen](https://person.zju.edu.cn/en/0020875). I am particularly fascinated by the intersection of technology and health, exploring areas like Smart Healthcare, Optical Sensing, and the Artificial Intelligence of Things.
 <br/><br/>
 
-:star2: Research Interest
+🌟 Research Interest
 ======
 ---
 * Smart Healthcare  
@@ -22,7 +22,7 @@ redirect_from:
 * Artificial Intelligence of Things
 <br/><br/>
 
-:bookmark_tabs: Publications
+📑 Publications
 =====
 ---
 **Conference**
@@ -33,7 +33,7 @@ redirect_from:
 - **[IEEE IEEE Internet of Things Journal’22]** ***Haiyan Hu**, Qian Zhang and Yanjiao Chen. "NIRSCam: A Mobile Near-Infrared Sensing System for Food Calorie Estimation."* [[paper](https://ieeexplore.ieee.org/document/9745595)] [[slides](/files/NIRSCAM.pptx)]
 <br/><br/>
 
-:trophy: Honors & Awards
+🏆 Honors & Awards
 ====
 ---
 - Postgraduate Studentships, HKUST, 2020-present
@@ -42,13 +42,13 @@ redirect_from:
 - Pacemaker to Merit Student, WHU, 2017
 <br/><br/>
 
-:mortar_board: Education
+🎓 Education
 ======
 - B.S. in Wuhan, Wuhan University, 2016-2020
 - Ph.D in Hong Kong, The Hong Kong University of Science and Technology, 2020-Current
 <br/><br/>
 
-:busts_in_silhouette: Teaching & Services
+👥 Teaching & Services
 ====
 ---
 - TA for HKUST COMP3311: Database Systems, Spring 2021
