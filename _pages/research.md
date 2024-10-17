@@ -1,13 +1,12 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Vision"
 permalink: /research/
 author_profile: true
 <!-- redirect_from: 
 - /research/ -->
 ---
 
-# Research Vision
 The well-being of human sets the foundation of the development of the society. However, modern medical curations still have barriers such as expensive medical devices and limited medical resources that prevent the public from convenient and cost-effective service. Especially in the current period when the coronavirus pandemic sweeps across the world, people find themselves disproportionately vulnerable to the virus’s impact, making traditional healthcare services less accessible due to heightened risk. 
 
 As we spend a substantial portion of spare time at home, a smart home that can care about our health status and understand our demands is essential to our happiness and well-being. The development of sensing technology, especially wearables and contactless sensing technology, brings a revolution over the traditional medical solutions. Smart homecare technology provides us with an affordable alternative to other healthcare services. **More convenient and cost-effective solutions make more people accessible to the medical resources, even enjoy professional medical care at home and benefit the public health to a great degree.** 
