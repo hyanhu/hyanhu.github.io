@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
  -->
 **Conference**
-- **[ACM MobiCom’24]** ***Haiyan Hu**, Yinan Zhu, Baichen Yang, Hua Kang, Shanwen Chen, and Qian Zhang. "MeatSpec: Enabling Ubiquitous Meat Fraud Inspection through Consumer-Level Spectral Imaging."* [[paper](https://www.sigmobile.org/mobicom/2024/program.html)]
+- **[ACM MobiCom’24]** ***Haiyan Hu**, Yinan Zhu, Baichen Yang, Hua Kang, Shanwen Chen, and Qian Zhang. "MeatSpec: Enabling Ubiquitous Meat Fraud Inspection through Consumer-Level Spectral Imaging."* [[paper](https://dl.acm.org/doi/10.1145/3636534.3690666)]
 
 **Journal**
 - **[ACM IMWUT/Ubicomp’23]** ***Haiyan Hu**, Qianyi Huang, and Qian Zhang. "BabyNutri: A Cost-Effective Baby Food Macronutrients Analyzer Based on Spectral Reconstruction."* [[paper](https://dl.acm.org/doi/10.1145/3580858)] [[slides](/files/BabyNutri.pptx)]
