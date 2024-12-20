@@ -37,9 +37,8 @@ redirect_from:
 ---
 - 🏆 HKUST RedBird Academic Excellence Award, HKUST, 2022
 - 👩🏻‍🎓 Postgraduate Studentships, HKUST, 2020-Present
-- 🎖️ National Encouragement Scholarship, WHU, 2019
 - 🎖️ National Scholarship, WHU, 2017 & 2018
-- 🏅 Pacemaker to Merit Student, WHU, 2017
+- 🏅 Pacemaker to Merit Student, WHU, 2018
 <br/><br/>
 
 🎓 Education
