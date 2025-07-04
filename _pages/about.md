@@ -28,6 +28,7 @@ redirect_from:
 - **[ACM MobiCom’24]** ***Haiyan Hu**, Yinan Zhu, Baichen Yang, Hua Kang, Shanwen Chen, and Qian Zhang. "MeatSpec: Enabling Ubiquitous Meat Fraud Inspection through Consumer-Level Spectral Imaging."* [[paper](https://dl.acm.org/doi/10.1145/3636534.3690666)] [[slides](/files/MeatSpec_Mobicom24.pptx)] [[dataset](https://drive.google.com/drive/folders/1mK7H9SZqEMkgJT3fQiuVL2PQwpw85r2m)]
 
 **Journal**
+- **[IEEE Transactions on Mobile Computing’25]** *Yinan Zhu\*, **Haiyan Hu**\*, Baichen Yang, Qianyi Huang Qian Zhang, and Wei Li. "FreshSpec: Sashimi Freshness Monitoring with Low-cost Multispectral Devices."* [[paper](https://doi.org/10.1109/TMC.2025.3581714)] [[dataset](https://drive.google.com/drive/folders/1JxaEsZXdswyJbPZDxUM2qCZxRofmjhR3?usp=drive_link)]
 - **[ACM IMWUT/Ubicomp’23]** ***Haiyan Hu**, Qianyi Huang, and Qian Zhang. "BabyNutri: A Cost-Effective Baby Food Macronutrients Analyzer Based on Spectral Reconstruction."* [[paper](https://dl.acm.org/doi/10.1145/3580858)] [[slides](/files/BabyNutri.pptx)]
 - **[IEEE IEEE Internet of Things Journal’22]** ***Haiyan Hu**, Qian Zhang and Yanjiao Chen. "NIRSCam: A Mobile Near-Infrared Sensing System for Food Calorie Estimation."* [[paper](https://ieeexplore.ieee.org/document/9745595)] [[slides](/files/NIRSCAM.pptx)]
 <br/><br/>
