@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hello and Welcom!** 👋 I am Haiyan HU, a Ph.D student at [Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), under the supervision of Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/). Before that, I received my B.Eng degree in Computer Science and Technology from Wuhan University in 2020, working with Prof [Yanjiao Chen](https://person.zju.edu.cn/en/0020875). I am particularly fascinated by the intersection of technology and health, exploring areas like Smart Healthcare, Optical Sensing, and the Artificial Intelligence of Things.
+**Hello and Welcom!** 👋 I am Haiyan HU, a Ph.D student at [Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), under the supervision of Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/). Before that, I received my B.Eng degree in Computer Science and Technology from Wuhan University in 2020, working with Prof [Yanjiao Chen](https://person.zju.edu.cn/en/0020875). I am particularly fascinated by the intersection of technology and health, exploring areas like Smart Healthcare, Optical Sensing, and the Artificial Intelligence of Things. [[CV](/files/CV_haiyanhu[202509].pdf)]
 <br/><br/>
 
 🌟 Research Interest
