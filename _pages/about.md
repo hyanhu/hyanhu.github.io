@@ -25,7 +25,8 @@ redirect_from:
 =====
 ---
 **Conference**
-- **[ACM MobiCom’24]** ***Haiyan Hu**, Yinan Zhu, Baichen Yang, Hua Kang, Shanwen Chen, and Qian Zhang. "MeatSpec: Enabling Ubiquitous Meat Fraud Inspection through Consumer-Level Spectral Imaging."* [[paper](https://dl.acm.org/doi/10.1145/3636534.3690666)] [[slides](/files/MeatSpec_Mobicom24.pptx)] [[dataset](https://drive.google.com/drive/folders/1mK7H9SZqEMkgJT3fQiuVL2PQwpw85r2m)]
+- **[ACM MobiCom’25]** *Yinan Zhu, Meng Xue, **Haiyan Hu**, Cong Zhang, Xiaoyi Fan, and Qian Zhang. "MeatSpec: Enabling Ubiquitous Meat Fraud Inspection through Consumer-Level Spectral Imaging."* [[paper](https://www.sigmobile.org/mobicom/2025/accepted.html)]
+- **[ACM MobiCom’24]** ***Haiyan Hu**, Yinan Zhu, Baichen Yang, Hua Kang, Shanwen Chen, and Qian Zhang. "DD-LIVM: Pioneering Cross-Domain Photovoltaic Defect Detection Using Large Infrared-Visible Model."* [[paper](https://dl.acm.org/doi/10.1145/3636534.3690666)] [[slides](/files/MeatSpec_Mobicom24.pptx)] [[dataset](https://drive.google.com/drive/folders/1mK7H9SZqEMkgJT3fQiuVL2PQwpw85r2m)]
 
 **Journal**
 - **[ACM IMWUT/Ubicomp’25]** ***Haiyan Hu**, Yinan Zhu, Shanwen Chen, Qianyi Huang, Qian Zhang. "FruitPhone: Detecting Sugar Content in Fruits Using Unmodified Smartphones with Spectral Imaging."* [[paper](https://dl.acm.org/doi/abs/10.1145/3749470)]
