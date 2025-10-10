@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hello and Welcom!** 👋 I am Haiyan HU, a Ph.D student at [Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), under the supervision of Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/). Before that, I received my B.Eng degree in Computer Science and Technology from Wuhan University in 2020, working with Prof [Yanjiao Chen](https://person.zju.edu.cn/en/0020875). I am particularly fascinated by the intersection of technology and health, exploring areas like Smart Healthcare, Optical Sensing, and the Artificial Intelligence of Things. [[CV](/files/CV_haiyanhu[202509].pdf)]
+**Hello and Welcom!** 👋 I am Haiyan HU, a postdoctoral researcher at [Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), working with Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/). I received my Ph.D. degree from the same institution in 2025. I received my B.Eng degree in Computer Science and Technology from Wuhan University in 2020, working with Prof [Yanjiao Chen](https://person.zju.edu.cn/en/0020875). I am broadly interested in the intersection of technology and health, especially in areas such as Smart Healthcare, Optical Sensing, and the Artificial Intelligence of Things (AIoT). My current research focuses on AIoT-enabled and sensor-based intelligent systems for food-related applications.[[CV](/files/CV_haiyanhu[202509].pdf)]
 <br/><br/>
 
 🌟 Research Interest
@@ -39,7 +39,7 @@ redirect_from:
 ====
 ---
 - 🏆 HKUST RedBird Academic Excellence Award, HKUST, 2022
-- 👩🏻‍🎓 Postgraduate Studentships, HKUST, 2020-Present
+- 👩🏻‍🎓 Postgraduate Studentships, HKUST, 2020-2025
 - 🎖️ National Scholarship, WHU, 2017 & 2018
 - 🏅 Pacemaker to Merit Student, WHU, 2018
 <br/><br/>
@@ -48,7 +48,7 @@ redirect_from:
 ======
 ---
 - B.S. in Wuhan, Wuhan University, 2016-2020
-- Ph.D in Hong Kong, The Hong Kong University of Science and Technology, 2020-Present
+- Ph.D in Hong Kong, The Hong Kong University of Science and Technology, 2020-2025
 <br/><br/>
 
 👥 Teaching & Services
