@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haiyan HU - Homepage"
+title                    : "Haiyan HU's Homepage"
 title_separator          : "-"
-name                     : &name "Haiyan HU"
+name                     : &name "Haiyan HU (胡海燕)"
 description              : &description "personal description"
 url                      : https://hyanhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
