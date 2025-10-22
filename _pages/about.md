@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hello and Welcome!** 👋 I am Haiyan HU, a postdoctoral researcher at [Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), working with Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/). I received my Ph.D. degree from the same institution in 2025. I received my B.Eng degree in Computer Science and Technology from Wuhan University in 2020, working with Prof [Yanjiao Chen](https://person.zju.edu.cn/en/0020875). I am broadly interested in the intersection of technology and health, especially in areas such as Smart Healthcare, Optical Sensing, and the Artificial Intelligence of Things (AIoT). My current research focuses on AIoT-enabled and sensor-based intelligent systems for food-related applications.[[CV](/files/CV_haiyanhu[202509].pdf)]
+**Hello and Welcome!** 👋 I am Haiyan HU (胡海燕), a postdoctoral researcher at [Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), working with Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/). I received my Ph.D. degree from the same institution in 2025. I received my B.Eng degree in Computer Science and Technology from Wuhan University in 2020, working with Prof [Yanjiao Chen](https://person.zju.edu.cn/en/0020875). I am broadly interested in the intersection of technology and health, especially in areas such as Smart Healthcare, Optical Sensing, and the Artificial Intelligence of Things (AIoT). My current research focuses on AIoT-enabled and sensor-based intelligent systems for food-related applications.[[CV](/files/CV_haiyanhu[202509].pdf)]
 <br/><br/>
 
 🌟 Research Interest
@@ -30,9 +30,9 @@ redirect_from:
 
 **Journal**
 - **[IEEE Transactions on Mobile Computing’25]** *Yinan Zhu\*, **Haiyan Hu**\*, Baichen Yang, Hua Kang, Shanwen Chen, Qianyi Huang, and Qian Zhang. "MeatSpec-G: Generalized Low-Cost Spectral Imaging for Ubiquitous Meat Fraud Inspection."* [[paper](https://doi.ieeecomputersociety.org/10.1109/TMC.2025.3623473)]
-- **[ACM IMWUT/Ubicomp’25]** ***Haiyan Hu**, Yinan Zhu, Shanwen Chen, Qianyi Huang, Qian Zhang. "FruitPhone: Detecting Sugar Content in Fruits Using Unmodified Smartphones with Spectral Imaging."* [[paper](https://dl.acm.org/doi/abs/10.1145/3749470)]
+- **[ACM IMWUT/UbiComp’25]** ***Haiyan Hu**, Yinan Zhu, Shanwen Chen, Qianyi Huang, Qian Zhang. "FruitPhone: Detecting Sugar Content in Fruits Using Unmodified Smartphones with Spectral Imaging."* [[paper](https://dl.acm.org/doi/abs/10.1145/3749470)]
 - **[IEEE Transactions on Mobile Computing’25]** *Yinan Zhu\*, **Haiyan Hu**\*, Baichen Yang, Qianyi Huang Qian Zhang, and Wei Li. "FreshSpec: Sashimi Freshness Monitoring with Low-cost Multispectral Devices."* [[paper](https://doi.org/10.1109/TMC.2025.3581714)] [[dataset](https://drive.google.com/drive/folders/1JxaEsZXdswyJbPZDxUM2qCZxRofmjhR3?usp=drive_link)]
-- **[ACM IMWUT/Ubicomp’23]** ***Haiyan Hu**, Qianyi Huang, and Qian Zhang. "BabyNutri: A Cost-Effective Baby Food Macronutrients Analyzer Based on Spectral Reconstruction."* [[paper](https://dl.acm.org/doi/10.1145/3580858)] [[slides](/files/BabyNutri.pptx)]
+- **[ACM IMWUT/UbiComp’23]** ***Haiyan Hu**, Qianyi Huang, and Qian Zhang. "BabyNutri: A Cost-Effective Baby Food Macronutrients Analyzer Based on Spectral Reconstruction."* [[paper](https://dl.acm.org/doi/10.1145/3580858)] [[slides](/files/BabyNutri.pptx)]
 - **[IEEE IEEE Internet of Things Journal’22]** ***Haiyan Hu**, Qian Zhang and Yanjiao Chen. "NIRSCam: A Mobile Near-Infrared Sensing System for Food Calorie Estimation."* [[paper](https://ieeexplore.ieee.org/document/9745595)] [[slides](/files/NIRSCAM.pptx)]
 <br/><br/>
 
