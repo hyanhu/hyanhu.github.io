@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hello and Welcome!** 👋 I am Haiyan HU (胡海燕), a postdoctoral researcher at [Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), working with Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/). I received my Ph.D. degree from the same institution in 2025. I received my B.Eng degree in Computer Science and Technology from Wuhan University in 2020, working with Prof [Yanjiao Chen](https://person.zju.edu.cn/en/0020875). I am broadly interested in the intersection of technology and health, especially in areas such as Smart Healthcare, Optical Sensing, and the Artificial Intelligence of Things (AIoT). My current research focuses on AIoT-enabled and sensor-based intelligent systems for food-related applications.[[CV](/files/CV_haiyanhu[202509].pdf)]
+**Hello and Welcome!** 👋 I am Haiyan HU (胡海燕), a postdoctoral researcher at [Department of Computer Science and Engineering, The Hong Kong University of Science and Technology (HKUST)](https://cse.hkust.edu.hk/), working with Prof. [Qian Zhang](https://www.cse.ust.hk/~qianzh/). I received my Ph.D. degree from the same institution in 2025. I received my B.Eng degree in Computer Science and Technology from Wuhan University in 2020, working with Prof [Yanjiao Chen](https://person.zju.edu.cn/en/0020875). I am broadly interested in the intersection of technology and health, especially in areas such as Smart Healthcare, Optical Sensing, and the Artificial Intelligence of Things (AIoT). My current research focuses on AIoT-enabled and sensor-based intelligent systems for food-related applications. [[CV](/files/CV_haiyanhu[202509].pdf)]
 <br/><br/>
 
 🌟 Research Interest
