@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Hello and Welcome!** 👋 I am Haiyan HU (胡海燕), a postdoctoral researcher at Department of Computer Science and Engineering, The Hong Kong University of Science and Technology [(HKUST)](https://cse.hkust.edu.hk/), working with [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/). I received my Ph.D. degree from the same institution in 2025. I received my B.Eng degree in Computer Science and Technology from Wuhan University in 2020, working with [Prof. Yanjiao Chen](https://person.zju.edu.cn/en/0020875). I am broadly interested in the intersection of technology and health, especially in areas such as Smart Healthcare, Optical Sensing, Computational Hyperspectral Imaging, and Spectroscopy for Food. My current research focuses on developing cost-effective spectroscopy systems for daily food-related applications. [[CV](/files/CV_haiyanhu[202511].pdf)]
+**Hello and Welcome!** 👋 I am Haiyan HU (胡海燕), a postdoctoral researcher at Department of Computer Science and Engineering, The Hong Kong University of Science and Technology [(HKUST)](https://cse.hkust.edu.hk/), working with [Prof. Qian Zhang](https://www.cse.ust.hk/~qianzh/). I received my Ph.D. degree from the same institution in 2025. I received my B.Eng degree in Computer Science and Technology from Wuhan University in 2020, working with [Prof. Yanjiao Chen](https://person.zju.edu.cn/en/0020875). I am broadly interested in the intersection of technology and health, especially in areas such as Smart Healthcare, Optical Sensing, Computational Hyperspectral Imaging, and Spectroscopy for Food. My current research focuses on developing cost-effective spectroscopy systems for daily food-related applications. [[CV](/files/CV_HaiyanHU[202511].pdf)]
 <br/><br/>
 
 🌟 Research Interest
@@ -39,7 +39,7 @@ redirect_from:
 ---
 **Conference**
 - **[ACM MobiCom’25]** ***Haiyan Hu**, Yandao Huang, Junyao Peng, Liu Yang, Shuangshuo Yang, and Qian Zhang. "Demo: Intelligent Nutrition Monitoring Pump System for Nasogastric Tube Patients."* <span style="color:red">(Best Demo Runner-up 🏆)</span> [[paper](/files/NutriBump-Demo.pdf)] 
-- **[ACM MobiCom’25]** *Yinan Zhu, Meng Xue, **Haiyan Hu**, Cong Zhang, Xiaoyi Fan, and Qian Zhang. "DD-LIVM: Pioneering Cross-Domain Photovoltaic Defect Detection Using Large Infrared-Visible Model."* [[paper](https://www.sigmobile.org/mobicom/2025/accepted.html)]
+- **[ACM MobiCom’25]** *Yinan Zhu, Meng Xue, **Haiyan Hu**, Cong Zhang, Xiaoyi Fan, and Qian Zhang. "DD-LIVM: Pioneering Cross-Domain Photovoltaic Defect Detection Using Large Infrared-Visible Model."* [[paper](/files/DD-LIVM.pdf)] 
 - **[ACM MobiCom’24]** ***Haiyan Hu**, Yinan Zhu, Baichen Yang, Hua Kang, Shanwen Chen, and Qian Zhang. "MeatSpec: Enabling Ubiquitous Meat Fraud Inspection through Consumer-Level Spectral Imaging."* [[paper](/files/MeatSpec.pdf)] [[slides](/files/MeatSpec_Mobicom24.pptx)] [[dataset](https://drive.google.com/drive/folders/1mK7H9SZqEMkgJT3fQiuVL2PQwpw85r2m)]
 
 **Journal**
