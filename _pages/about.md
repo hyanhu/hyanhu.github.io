@@ -18,7 +18,7 @@ redirect_from:
 * Optical Sensing 
 * Computational Hyperspectral Imaging  
 * Cost-effective Spectroscopy for Food
-<br/>
+<br/><br/>
 
 📰 News
 ======
@@ -32,6 +32,7 @@ redirect_from:
 - **2025-06** 🎆: Our paper **DD-LIVM** was accepted by MobiCom 2025.
 - **2025-06** 🎆: Our paper **FreshSpec** was accepted by Transactions on Mobile Computing (TMC).        
 - **2025-04** 🏆: Our Project on "AI-powered Smart Feeding Pump" won **Gold Medel on 50th International Exhibition of Inventions Geneva**. [[News](https://mp.weixin.qq.com/s/OWchIvg_--vr0u8Zm8eIlA)].     
+<br/><br/>
 
 📑 Publications
 =====
