@@ -38,7 +38,7 @@ redirect_from:
 =====
 ---
 **Conference**
-- **[ACM MobiCom’25]** * **Haiyan Hu**, Yandao Huang, Junyao Peng, Liu Yang, Shuangshuo Yang, and Qian Zhang. "Demo: Intelligent Nutrition Monitoring Pump System for Nasogastric Tube Patients."* (Best Demo Runner-up 🏆) [[paper](/files/NutriBump-Demo.pdf)] 
+- **[ACM MobiCom’25]** ***Haiyan Hu**, Yandao Huang, Junyao Peng, Liu Yang, Shuangshuo Yang, and Qian Zhang. "Demo: Intelligent Nutrition Monitoring Pump System for Nasogastric Tube Patients."* (Best Demo Runner-up 🏆) [[paper](/files/NutriBump-Demo.pdf)] 
 - **[ACM MobiCom’25]** *Yinan Zhu, Meng Xue, **Haiyan Hu**, Cong Zhang, Xiaoyi Fan, and Qian Zhang. "DD-LIVM: Pioneering Cross-Domain Photovoltaic Defect Detection Using Large Infrared-Visible Model."* [[paper](https://www.sigmobile.org/mobicom/2025/accepted.html)]
 - **[ACM MobiCom’24]** ***Haiyan Hu**, Yinan Zhu, Baichen Yang, Hua Kang, Shanwen Chen, and Qian Zhang. "MeatSpec: Enabling Ubiquitous Meat Fraud Inspection through Consumer-Level Spectral Imaging."* [[paper](/files/MeatSpec.pdf)] [[slides](/files/MeatSpec_Mobicom24.pptx)] [[dataset](https://drive.google.com/drive/folders/1mK7H9SZqEMkgJT3fQiuVL2PQwpw85r2m)]
 
