@@ -23,6 +23,7 @@ redirect_from:
 📰 News
 ======
 ---
+- **2026-01** 🎆: Our paper **VNiScan-Fruit** was accepted by Transactions on Mobile Computing (TMC). 
 - **2025-11** 🏆: Our demo "Intelligent Nutrition Monitoring Pump System for Nasogastric Tube Patients" won **MobiCom 2025 Best Demo Award Runner-up**.  
 - **2025-10** 🎆: Our paper **FlourSpec** was accepted by SenSys 2026.
 - **2025-10** 🎆: Our paper **MeatSpec-G** was accepted by Transactions on Mobile Computing (TMC).   
@@ -43,6 +44,7 @@ redirect_from:
 - **[ACM MobiCom’24]** ***Haiyan Hu**, Yinan Zhu, Baichen Yang, Hua Kang, Shanwen Chen, and Qian Zhang. "MeatSpec: Enabling Ubiquitous Meat Fraud Inspection through Consumer-Level Spectral Imaging."* [[paper](/files/MeatSpec.pdf)] [[slides](/files/MeatSpec_Mobicom24.pptx)] [[dataset](https://drive.google.com/drive/folders/1mK7H9SZqEMkgJT3fQiuVL2PQwpw85r2m)]
 
 **Journal**
+- **[IEEE Transactions on Mobile Computing’25]** Lu Wang, Qiqi Wang, Kaixin Chen, **Haiyan Hu**, Usman Saleh Toro, Yueling Che, Kaishun Wu, Qian Zhang. "VNiScan-Fruit: A Non-Invasive Visible-Near Infrared Sensing System for Soluble Solids Content Estimation in Fruits."[[paper](https://doi.org/10.1109/TMC.2026.3667385)] 
 - **[IEEE Transactions on Mobile Computing’25]** *Yinan Zhu\*, **Haiyan Hu**\*, Baichen Yang, Hua Kang, Shanwen Chen, Qianyi Huang, and Qian Zhang. "MeatSpec-G: Generalized Low-Cost Spectral Imaging for Ubiquitous Meat Fraud Inspection."* (* co-first author) [[paper](/files/MeatSpec-G.pdf)] 
 - **[ACM IMWUT/UbiComp’25]** ***Haiyan Hu**, Yinan Zhu, Shanwen Chen, Qianyi Huang, Qian Zhang. "FruitPhone: Detecting Sugar Content in Fruits Using Unmodified Smartphones with Spectral Imaging."* [[paper](/files/FruitPhone.pdf)] [[slides](/files/FruitPhone_Ubicomp25.pdf)] [[dataset](https://drive.google.com/drive/u/1/folders/1jJQgOuB_yFYtod44AE5TEXKQXsivVbmj)]
 - **[IEEE Transactions on Mobile Computing’25]** *Yinan Zhu\*, **Haiyan Hu**\*, Baichen Yang, Qianyi Huang Qian Zhang, and Wei Li. "FreshSpec: Sashimi Freshness Monitoring with Low-cost Multispectral Devices."* (* co-first author) [[paper](/files/FreshSpec.pdf)]  [[dataset](https://drive.google.com/drive/folders/1JxaEsZXdswyJbPZDxUM2qCZxRofmjhR3?usp=drive_link)]
