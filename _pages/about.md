@@ -23,6 +23,7 @@ redirect_from:
 📰 News
 ======
 ---
+- **2026-04** 🎆: Our paper **WheatScout** was accepted by MobiSys 2026. 
 - **2026-01** 🎆: Our paper **VNiScan-Fruit** was accepted by Transactions on Mobile Computing (TMC). 
 - **2025-11** 🏆: Our demo "Intelligent Nutrition Monitoring Pump System for Nasogastric Tube Patients" won **MobiCom 2025 Best Demo Award Runner-up**.  
 - **2025-10** 🎆: Our paper **FlourSpec** was accepted by SenSys 2026.
@@ -39,6 +40,7 @@ redirect_from:
 =====
 ---
 **Conference**
+- **[ACM MobiSys’26]** *Shanwen Chen, **Haiyan Hu**, Meng Yang, and Qian Zhang. "WheatScout: A Handheld Analyzer for Pre-Harvest Wheat Protein and Moisture Monitoring."* [paper]
 - **[ACM SenSys’26]** *Shanwen Chen, **Haiyan Hu**, Yinan Zhu, and Qian Zhang. "FlourSpec: Cost-Effective Spectral Analysis for Trace-Level Detection of Flour Adulteration."* [paper]
 - **[ACM MobiCom’25]** ***Haiyan Hu**, Yandao Huang, Junyao Peng, Liu Yang, Shuangshuo Yang, and Qian Zhang. "Demo: Intelligent Nutrition Monitoring Pump System for Nasogastric Tube Patients."* <span style="color:red">(Best Demo Runner-up 🏆)</span> [[paper](/files/NutriBump-Demo.pdf)] 
 - **[ACM MobiCom’25]** *Yinan Zhu, Meng Xue, **Haiyan Hu**, Cong Zhang, Xiaoyi Fan, and Qian Zhang. "DD-LIVM: Pioneering Cross-Domain Photovoltaic Defect Detection Using Large Infrared-Visible Model."* [[paper](/files/DD-LIVM.pdf)] 
