@@ -43,16 +43,16 @@ redirect_from:
 =====
 ---
 **Conference**
-- **[ACM MobiSys’26]** ***Haiyan Hu**. "Ubiquitous Computational Spectroscopy: Bridging Lab-grade Spectroscopy to Everyday Devices."* [paper]
-- **[ACM MobiSys’26]** *Shanwen Chen, **Haiyan Hu**, Meng Yang, and Qian Zhang. "WheatScout: A Handheld Analyzer for Pre-Harvest Wheat Protein and Moisture Monitoring."* [paper]
-- **[ACM SenSys’26]** *Shanwen Chen, **Haiyan Hu**, Yinan Zhu, and Qian Zhang. "FlourSpec: Cost-Effective Spectral Analysis for Trace-Level Detection of Flour Adulteration."* [paper]
+- **[ACM MobiSys’26]** ***Haiyan Hu**. "Ubiquitous Computational Spectroscopy: Bridging Lab-grade Spectroscopy to Everyday Devices."* [[paper](/files/mobisys26risingstar.pdf)]
+- **[ACM MobiSys’26]** *Shanwen Chen, **Haiyan Hu**, Meng Yang, and Qian Zhang. "WheatScout: A Handheld Analyzer for Pre-Harvest Wheat Protein and Moisture Monitoring."* [[paper](/files/WheatScout.pdf)]
+- **[ACM SenSys’26]** *Shanwen Chen, **Haiyan Hu**, Yinan Zhu, and Qian Zhang. "FlourSpec: Cost-Effective Spectral Analysis for Trace-Level Detection of Flour Adulteration."* [[paper](/files/FlourSpec.pdf)]
 - **[ACM MobiCom’25]** ***Haiyan Hu**, Yandao Huang, Junyao Peng, Liu Yang, Shuangshuo Yang, and Qian Zhang. "Demo: Intelligent Nutrition Monitoring Pump System for Nasogastric Tube Patients."* <span style="color:red">(Best Demo Runner-up 🏆)</span> [[paper](/files/NutriBump-Demo.pdf)] 
 - **[ACM MobiCom’25]** *Yinan Zhu, Meng Xue, **Haiyan Hu**, Cong Zhang, Xiaoyi Fan, and Qian Zhang. "DD-LIVM: Pioneering Cross-Domain Photovoltaic Defect Detection Using Large Infrared-Visible Model."* [[paper](/files/DD-LIVM.pdf)] 
 - **[ACM MobiCom’24]** ***Haiyan Hu**, Yinan Zhu, Baichen Yang, Hua Kang, Shanwen Chen, and Qian Zhang. "MeatSpec: Enabling Ubiquitous Meat Fraud Inspection through Consumer-Level Spectral Imaging."* [[paper](/files/MeatSpec.pdf)] [[slides](/files/MeatSpec_Mobicom24.pptx)] [[dataset](https://drive.google.com/drive/folders/1mK7H9SZqEMkgJT3fQiuVL2PQwpw85r2m)]
 
 **Journal**
-- **[ACM IMWUT/UbiComp’26]** ***Haiyan Hu**, Junyao Peng, Tingting Jiang, Qianyi Huang, Qian Zhang. "OptiTexture: A Low-Cost, Optical-Deep Learning Solution for Objective Food Texture Assessment in Dysphagia Care"*
-- **[ACM IMWUT/UbiComp’26]** *Yizhen Zhang, Jinjian Wang, Wentao Xie, Qingyong Hu, **Haiyan Hu**, Guihua Li, Qian Zhang. "PIGDAssess: Wearable Dual-Task Sensing for Self-Administered PIGD Assessment in Parkinson’s Disease"*
+- **[ACM IMWUT/UbiComp’26]** ***Haiyan Hu**, Junyao Peng, Tingting Jiang, Qianyi Huang, Qian Zhang. "OptiTexture: A Low-Cost, Optical-Deep Learning Solution for Objective Food Texture Assessment in Dysphagia Care."* [[paper](/files/Optitexture.pdf)]
+- **[ACM IMWUT/UbiComp’26]** *Yizhen Zhang, Jinjian Wang, Wentao Xie, Qingyong Hu, **Haiyan Hu**, Guihua Li, Qian Zhang. "PIGDAssess: Wearable Dual-Task Sensing for Self-Administered PIGD Assessment in Parkinson’s Disease."* [[paper](/files/PIGDAssess.pdf)]
 - **[IEEE Transactions on Mobile Computing’25]** Lu Wang, Qiqi Wang, Kaixin Chen, **Haiyan Hu**, Usman Saleh Toro, Yueling Che, Kaishun Wu, Qian Zhang. "VNiScan-Fruit: A Non-Invasive Visible-Near Infrared Sensing System for Soluble Solids Content Estimation in Fruits."[[paper](https://doi.org/10.1109/TMC.2026.3667385)] 
 - **[IEEE Transactions on Mobile Computing’25]** *Yinan Zhu\*, **Haiyan Hu**\*, Baichen Yang, Hua Kang, Shanwen Chen, Qianyi Huang, and Qian Zhang. "MeatSpec-G: Generalized Low-Cost Spectral Imaging for Ubiquitous Meat Fraud Inspection."* (* co-first author) [[paper](/files/MeatSpec-G.pdf)] 
 - **[ACM IMWUT/UbiComp’25]** ***Haiyan Hu**, Yinan Zhu, Shanwen Chen, Qianyi Huang, Qian Zhang. "FruitPhone: Detecting Sugar Content in Fruits Using Unmodified Smartphones with Spectral Imaging."* [[paper](/files/FruitPhone.pdf)] [[slides](/files/FruitPhone_Ubicomp25.pdf)] [[dataset](https://drive.google.com/drive/u/1/folders/1jJQgOuB_yFYtod44AE5TEXKQXsivVbmj)]
