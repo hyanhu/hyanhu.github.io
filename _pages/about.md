@@ -23,7 +23,7 @@ redirect_from:
 📰 News
 ======
 ---
-- **2026-05** 🎆: My proposal "Ubiquitous Computational Spectroscopy: Bridging Lab-grade Spectroscopy to Everyday Devices" was accepted by MobiSys 2026 Rising Stars Forum Program.
+- **2026-05** 🎆: My proposal "Ubiquitous Computational Spectroscopy: Bridging Lab-grade Spectroscopy to Everyday Devices" was accepted by MobiSys 2026 Rising Stars Forum Program (Poster).
 - **2026-05** 🎆: Our paper **OptiTexture** was accepted by IMWUT (UbiComp) 2026.
 - **2026-05** 🎆: Our paper **PIGDAssess** was accepted by IMWUT (UbiComp) 2026. 
 - **2026-04** 🎆: Our paper **WheatScout** was accepted by MobiSys 2026. 
